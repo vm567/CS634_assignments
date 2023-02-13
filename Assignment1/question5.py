@@ -29,4 +29,4 @@ time = np.arange(0, T, t)
 for i, a in enumerate(A):
     plot.plot(time, queue_length[i, :], label='Arrival rate = {}'.format(a))
     plot.xlabel('Time')
-    plot.show()
+    plot.show()cd
