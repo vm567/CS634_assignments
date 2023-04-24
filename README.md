@@ -1,5 +1,5 @@
 ---
-title: Sentiment Analysis App
+title: CNN_Featurizers_and_Similarity_Search
 emoji: 😻
 colorFrom: purple
 colorTo: indigo
